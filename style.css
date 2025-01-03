@@ -1,4 +1,8 @@
 img{
     width: 200px;
     border: 1px solid red;
+    }
+h3{
+    columns: blue;
+    font-size: 20px;
 }
